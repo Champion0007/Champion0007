@@ -50,12 +50,13 @@
 
 ---
 
-# 📊 GitHub Activity Graph
+## 🐍 Contribution Snake
 
-[![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Champion0007&theme=tokyo-night)](https://github.com/Champion0007)
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
-
 # 👀 Profile Visitors
 
 <p align="center">
