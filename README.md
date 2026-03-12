@@ -1,57 +1,78 @@
 <h1 align="center">Hi 👋, I'm Abhinav Pal</h1>
-<h3 align="center">MERN Stack Developer | React | Next.js | Node.js</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=6A5ACD&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Open+Source+Contributor" />
+</p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 MCA Graduate from IIMT University
-- 💻 MERN Stack Developer
-- 🔭 Currently working on **Next.js Projects**
-- 🌱 Learning **Advanced React & System Design**
-- ⚡ Fun fact: I love building modern web apps
-
----
-
-### 🛠️ Tech Stack
-
-HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | Tailwind | Next.js
+💻 MERN Stack Developer  
+🎓 MCA Graduate – IIMT University  
+⚡ Passionate about building scalable web applications  
+🚀 Currently learning **Advanced React & System Design**
 
 ---
 
-### 📊 GitHub Stats
+## 🛠 Tech Stack
 
-![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Champion0007&show_icons=true&theme=tokyonight)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode" />
 
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Champion0007&theme=tokyonight)
+</p>
 
 ---
 
-### 📈 Most Used Languages
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Champion0007&layout=compact&theme=tokyonight)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Champion0007&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Champion0007&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-### 📫 Connect with me
+## 📈 Most Used Languages
 
-LinkedIn | Portfolio | Email## Hi there 👋
+<p align="center">
 
-<!--
-**Champion0007/Champion0007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Champion0007&layout=compact&theme=tokyonight&hide_border=true"/>
 
-Here are some ideas to get you started:
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+⭐ From **Abhinav Pal**
