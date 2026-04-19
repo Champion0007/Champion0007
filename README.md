@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=220&section=header&text=Abhinav%20Pal&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=220&section=header&text=Abhinav%20Pal&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff"/>
 
 <h1 align="center">Hi , I'm Abhinav Pal</h1>
 
